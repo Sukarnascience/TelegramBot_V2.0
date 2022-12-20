@@ -1,0 +1,3 @@
+python-telegram-bot 
+python-aiml 
+pyttsx3 
